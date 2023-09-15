@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"elpen"
+	],
+	"copyright": "Copyright © 2023, elpen",
+	"dependencies": {
+		"siryul": "~>0.8.2",
+		"easyhttp": "~>0.7.1"
+	},
+	"description": "A minimal D application.",
+	"license": "BSL-1.0",
+	"name": "darkersky",
+	"subPackages": [
+		"getlocalforecast"
+	]
+}
