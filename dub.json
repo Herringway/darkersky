@@ -1,13 +1,13 @@
 {
 	"authors": [
-		"elpen"
+		"Herringway"
 	],
-	"copyright": "Copyright © 2023, elpen",
+	"copyright": "Copyright © 2023, Herringway",
 	"dependencies": {
 		"siryul": "~>0.8.2",
 		"easyhttp": "~>0.7.1"
 	},
-	"description": "A minimal D application.",
+	"description": "Interface to Pirate Weather's Dark Sky API",
 	"license": "BSL-1.0",
 	"name": "darkersky"
 }
