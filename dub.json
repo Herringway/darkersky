@@ -9,8 +9,5 @@
 	},
 	"description": "A minimal D application.",
 	"license": "BSL-1.0",
-	"name": "darkersky",
-	"subPackages": [
-		"getlocalforecast"
-	]
+	"name": "darkersky"
 }
